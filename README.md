@@ -107,10 +107,7 @@ The project uses shadcn/ui components with a custom design system:
 
 - **Primary Color**: Indigo (600)
 - **Typography**: Geist Sans & Geist Mono
-- **Responsive Design**: Mobile-first approach
-- **Dark Mode**: Supported (optional)
-
-## 🔧 Development
+- \*\*[object Object] Development
 
 ### 📋 Development Rules & Standards
 
@@ -183,11 +180,7 @@ AffiFlow operates on a subscription-based model:
 
 ## 📄 License
 
-This project is proprietary software. All rights reserved.
-
-## 🆘 Support
-
-For support and questions:
+This project is[object Object]
 
 - Create an issue in the repository
 - Contact: support@affiflow.com
